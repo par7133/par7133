@@ -1,4 +1,4 @@
-### Hello 👋
-This is Dan!  
+### Hello, and Welcome! 👋
+This is Dan..  
    
 
