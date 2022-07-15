@@ -13,7 +13,7 @@ I invite any of my friends from China and not to mirror Homomm http://homomm.org
 
 ##### My Badge
 <img src="/badge_github.jpg"><br><br>
-&nbsp;<img src="/wechat1_lo.jpg" width="350">  
+&nbsp;&nbsp;<img src="/wechat1_lo.jpg" width="350">  
 
 
 
