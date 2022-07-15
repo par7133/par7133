@@ -12,8 +12,8 @@ I invite any of my friends from China and not to mirror Homomm http://homomm.org
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=par7133&show_icons=true&count_private=true&hide_title=true)  
 
 ##### My Badge
-
-<img src="/badge_github.jpg" width="550" align="top"> <img src="/wechat1_lo.jpg" width="350">  
+<img src="/badge_github.jpg"><br>
+<img src="/wechat1_lo.jpg" width="350">  
 
 
 
