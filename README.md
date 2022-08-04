@@ -13,8 +13,10 @@ Instructions to make LetsEncrypt certificates being validated in MacOSX < 10.12 
 - Go in File->Get Info to set its trust preferences for SSL to “Always trust”  
 Enjoy!
 
-<b>Swapping</b>: php development for graphic design
-
+<b>Swapping</b>: php development for graphic design.  
+  
+Please contact info@5mode.com to have full access to Orderman or Editown.  
+  
 ##### My GitHub Statistics
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=par7133&show_icons=true&count_private=true&hide_title=true)  
