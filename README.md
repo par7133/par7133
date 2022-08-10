@@ -17,9 +17,11 @@ Instructions to make LetsEncrypt certificates being validated in MacOSX < 10.12 
 - Go in File->Get Info to set its trust preferences for SSL to “Always trust”  
 Enjoy!
 
-<div style="font-weight:900;color:blue;">
+<div style="font-weight:900;color:blue;background-color:yellow;">
 <a href="https://m.do.co/c/c85e9d7bd946" style="font-weight:900" target="_blank">Go with the shark!</a><br>
 </div>	
+
+<br>
 
 <b>Swapping</b>: php development for graphic design.  
   
