@@ -18,7 +18,7 @@ Instructions to make LetsEncrypt certificates being validated in MacOSX < 10.12 
 Enjoy!
 
 <div style="font-weight:900;color:blue;">
-<a href="https://m.do.co/c/c85e9d7bd946" target="_blank">Go with the shark!</a><br>
+<a href="https://m.do.co/c/c85e9d7bd946" style="font-weight:900" target="_blank">Go with the shark!</a><br>
 </div>	
 
 <b>Swapping</b>: php development for graphic design.  
