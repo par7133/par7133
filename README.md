@@ -1,3 +1,7 @@
+<div style="width:500px; margin:auto; margin-top:0px; position:relative; top:-10px;">
+	<H1><a href="http://5md.at/l/dona1" targt="_blank">&gt;&gt;&gt;&nbsp;Donate to 5 Mode&nbsp;&lt;&lt;&lt;</a></H1>
+</div>
+
 ### Hello, and welcome! 👋
 This is Dan..  
 
@@ -13,10 +17,14 @@ Instructions to make LetsEncrypt certificates being validated in MacOSX < 10.12 
 - Go in File->Get Info to set its trust preferences for SSL to “Always trust”  
 Enjoy!
 
+<div style="font-weight:900;color:blue;">
+<a href="https://m.do.co/c/c85e9d7bd946" target="_blank">Go with the shark!</a><br>
+</div>	
+
 <b>Swapping</b>: php development for graphic design.  
   
 Please contact info@5mode.com to have full access to Orderman or Editown.  
-  
+
 ##### My GitHub Statistics
 
 ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=par7133&show_icons=true&count_private=true&hide_title=true)  
