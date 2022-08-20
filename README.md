@@ -25,7 +25,7 @@ Enjoy!
 
 <b>Swapping</b>: php development for graphic design.  
   
-Please contact info@5mode.com to have full access to Orderman or Editown.  
+Please contact info@5mode.com to have full access to Order Dude or Editown.  
 
 ##### My GitHub Statistics
 
@@ -33,7 +33,7 @@ Please contact info@5mode.com to have full access to Orderman or Editown.
 
 ##### My Badge
 <img src="/badge_github.jpg"><br><br>
-&nbsp;&nbsp;<a href="http://demo.5mode.com"><img src="/wechat1_lo.jpg" width="350"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://0rderman.com"><img src="/orderman_ad_lo.jpg" width="350" height="292"></a>
+&nbsp;&nbsp;<a href="http://demo.5mode.com"><img src="/wechat1_lo.jpg" width="350"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://orderdu.de"><img src="/orderman_ad_lo.jpg" width="350" height="292"></a>
 
 
    
