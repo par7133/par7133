@@ -33,7 +33,7 @@ Please contact info@5mode.com to have full access to Order Dude or Editown.
 
 ##### My Badge
 <img src="/badge_github.jpg"><br><br>
-&nbsp;&nbsp;<a href="http://demo.5mode.com"><img src="/wechat1_lo.jpg" width="350"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://orderdu.de"><img src="/orderdude_ad_lo.jpg" width="350" height="292"></a>
+&nbsp;&nbsp;<a href="http://demo.5mode.com"><img src="/wechat1_lo.jpg" width="350"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://orderdu.de"><img src="/orderdude_ad_lo.jpeg" width="350" height="292"></a>
 
 
    
