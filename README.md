@@ -3,7 +3,7 @@
 </div>
 
 ### Hello, and welcome! 👋
-This is Captain..  
+This is Capitan..  
 
 I invite everyone who downloaded 5cube or MacSwap to update to the last release due to a security fix, thx.
 
