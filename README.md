@@ -2,8 +2,7 @@
 	<H1><a href="http://5md.at/l/dona1" targt="_blank">&gt;&gt;&gt;&nbsp;Donate to 5 Mode&nbsp;&lt;&lt;&lt;</a></H1>
 </div>
 
-### Hello, and welcome! 👋
-This is Capitan..  
+### Hello, and welcome! 👋 (This is Capitan..)  
 
 I invite everyone who downloaded 5cube or MacSwap to update to the last release due to a security fix, thx.
 
