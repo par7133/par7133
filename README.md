@@ -24,7 +24,7 @@ Enjoy!
 
 <b>Swapping</b>: php development for graphic design.  
   
-Please contact <a href="http://5md.at/l/email">http://5md.at/l/email</a> to have full access to Order Dude or Editown.  
+Please contact <a href="http://5md.io/l/email">http://5md.io/l/email</a> to have full access to Order Dude or Editown.  
 
 ##### My GitHub Statistics
 
