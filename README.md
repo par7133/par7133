@@ -1,12 +1,12 @@
 <div style="width:500px; margin:auto; margin-top:0px; position:relative; top:-10px;">
-	<H1><a href="http://5md.at/l/dona1" targt="_blank">&gt;&gt;&gt;&nbsp;Donate to 5 Mode&nbsp;&lt;&lt;&lt;</a></H1>
+	<H1><a href="http://5md.io/l/dona1" targt="_blank">&gt;&gt;&gt;&nbsp;Donate to 5 Mode&nbsp;&lt;&lt;&lt;</a></H1>
 </div>
 
 ### Hello, and welcome! 👋 (This is Capitan..)  
 
 I invite any of my friends from China and not to mirror Homomm http://homomm.5mode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me directly.
 
-And I invite you to check out http://avatarfree.5mode-foss.eu to own your social presence.
+And I invite you to check out http://avatarfree.org to own your social presence.
 
 <b>Attention</b>: In old Mac it is a tough time to browse LetsEncrypt websites. Here I explain you how to deal with it.  
 How-to: Let LetsEncrypt certificates being validated in MacOSX < 10.12 (old versions)  
