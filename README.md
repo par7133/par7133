@@ -24,7 +24,7 @@ Enjoy!
 
 <b>Swapping</b>: php development for graphic design.  
   
-Please contact <a href="http://typeme.in/l/email">http://typeme.in/l/email</a> to have full access to Order Dude or Editown.  
+Please contact <a href="http://typeme.in/l/email">http://typeme.in/l/email</a> to have full access to Order Dude or Homomm.  
 
 ##### My GitHub Statistics
 
