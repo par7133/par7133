@@ -24,7 +24,7 @@ Enjoy!
 
 <b>Swapping</b>: php development for graphic design.  
   
-Please contact <a href="http://5mode.net/l/email">http://typeme.in/l/email</a> to have full access to Order Dude or Homomm.  
+Please contact <a href="http://5mode.net/l/email">http://5mode.net/l/email</a> to have full access to Order Dude or Homomm.  
 
 ##### My GitHub Statistics
 
