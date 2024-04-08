@@ -1,5 +1,5 @@
 <div style="width:500px; margin:auto; margin-top:0px; position:relative; top:-10px;">
-	<H1><a href="https://5md.es/l/dona1" targt="_blank">&gt;&gt;&gt;&nbsp;Donate to 5 Mode&nbsp;&lt;&lt;&lt;</a></H1>
+	<H1><a href="https://5mode.net/l/dona1" targt="_blank">&gt;&gt;&gt;&nbsp;Donate to 5 Mode&nbsp;&lt;&lt;&lt;</a></H1>
 </div>
 
 ### Hello, and welcome! 👋 (This is Capitan..)  
@@ -24,7 +24,7 @@ Enjoy!
 
 <b>Swapping</b>: php development for graphic design.  
   
-Please contact <a href="http://typeme.in/l/email">http://typeme.in/l/email</a> to have full access to Order Dude or Homomm.  
+Please contact <a href="http://5mode.net/l/email">http://typeme.in/l/email</a> to have full access to Order Dude or Homomm.  
 
 ##### My GitHub Statistics
 
