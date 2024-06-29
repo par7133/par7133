@@ -6,7 +6,7 @@
 
 I invite any of my friends from China and not to mirror Homomm http://homomm.5mode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me directly.
 
-And I invite you to check out http://avatarfree.org to own your social presence.
+And I invite you to check out http://avatarfree.5mode-foss.eu to own your social presence.
 
 <b>Attention</b>: In old Mac it is a tough time to browse LetsEncrypt websites. Here I explain you how to deal with it.  
 How-to: Let LetsEncrypt certificates being validated in MacOSX < 10.12 (old versions)  
