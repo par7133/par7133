@@ -8,7 +8,7 @@ I invite any of my friends from China and not to mirror Homomm http://homomm.5mo
 
 And I invite you to check out http://avatarfree.5mode-foss.eu to own your social presence.
 
-<b>Attention</b>: In old Mac it is a tough time to browse LetsEncrypt websites. Here I explain you how to deal with it.  
+<b>Alert #1</b>: In old Mac it is a tough time to browse LetsEncrypt websites. Here I explain you how to deal with it.  
 How-to: Let LetsEncrypt certificates being validated in MacOSX < 10.12 (old versions)  
 - Download the ISRG Root X1 self-signed certificate from https://letsencrypt.org/certificates/  
 - Open the certificate app “Keychain Access” from Applications/Utilities  
@@ -16,6 +16,9 @@ How-to: Let LetsEncrypt certificates being validated in MacOSX < 10.12 (old vers
 - Go in File->Get Info to set its trust preferences for SSL to “Always trust”  
 Enjoy!
 
+<b>Alert #2</b>: In yourr double sim cards mobile, I suggest you to use the double sim cards mode 
+because I'm tempted to think that (at 2024/07) it consume less than the mono mode.
+  
 <div style="font-weight:900;color:blue;background-color:lightgreen;">
 <a href="https://hetzner.cloud/?ref=mw7jFDXrioJE" style="font-weight:900" target="_blank"><b>And go with the cloud power!</b></a><br>
 </div>	
