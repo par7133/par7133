@@ -17,7 +17,7 @@ How-to: Let LetsEncrypt certificates being validated in MacOSX < 10.12 (old vers
 Enjoy!
 
 <b>Alert #2</b>: In your double sim cards mobile, I suggest you to use the double sim cards mode 
-because I'm tempted to think that (at 2024/07) it consume less than the mono mode.
+because I'm tempted to think that (at 2024/07) it consumes less than the mono mode.
   
 <div style="font-weight:900;color:blue;background-color:lightgreen;">
 <a href="https://hetzner.cloud/?ref=mw7jFDXrioJE" style="font-weight:900" target="_blank"><b>And go with the cloud power!</b></a><br>
