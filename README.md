@@ -16,7 +16,7 @@ How-to: Let LetsEncrypt certificates being validated in MacOSX < 10.12 (old vers
 - Go in File->Get Info to set its trust preferences for SSL to “Always trust”  
 Enjoy!
 
-<b>Alert #2</b>: In yourr double sim cards mobile, I suggest you to use the double sim cards mode 
+<b>Alert #2</b>: In your double sim cards mobile, I suggest you to use the double sim cards mode 
 because I'm tempted to think that (at 2024/07) it consume less than the mono mode.
   
 <div style="font-weight:900;color:blue;background-color:lightgreen;">
