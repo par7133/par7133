@@ -1,8 +1,8 @@
 <div style="width:500px; margin:auto; margin-top:0px; position:relative; top:-10px;">
-	<H1><a href="https://5mode.net/l/dona1" targt="_blank">&gt;&gt;&nbsp;Donate to CC&nbsp;&lt;&lt;</a></H1>
+	<H1><a href="https://5mode.net/l/dona1" targt="_blank">&gt;&gt;&nbsp;Donate to Dan&nbsp;&lt;&lt;</a></H1>
 </div>
 
-### Hello, and welcome! 👋 (This is Capitan..)  
+### Hello, and welcome! 👋 (This is Dan..)  
 
 Friend or foe you are welcome to check out my personal code on https://code.5mode.com.    
 
