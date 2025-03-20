@@ -29,7 +29,7 @@ because I'm tempted to think that (at 2024/07) it consumes less than the mono mo
 
 <b>Swapping</b>: php development for graphic design.  
   
-Please contact <a href="http://5mode.net/l/email">http://5mode.net/l/email</a> to have full access to Order Dude or Homomm.  
+Please contact us via email to have full access to Order Dude or Homomm.  
 
 ##### My GitHub Statistics
 
