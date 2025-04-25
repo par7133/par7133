@@ -25,7 +25,7 @@ because I'm tempted to think that (at 2024/07) it consumes less than the mono mo
 
 Please contact us via email to have full access to Order Dude or Homomm live demo.   
 
-For additions, plugins and improvements please write to <a href="mailto:info@5mode.com">info@5mode.com</a>   
+For any need of software additions, plugins and improvements please write to <a href="mailto:info@5mode.com">info@5mode.com</a>   
 
 To request a CD-ROM with the full software collection of 5 Mode please write to <a href="mailto:info@5mode.com">info@5mode.com</a>.   
 
