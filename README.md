@@ -35,12 +35,6 @@ Finally you can buy the 5 Mode mug here: https://shop.5mode.com.
 
 <b>Swapping</b>: php development for graphic design.  
   
-  
-
-##### My GitHub Statistics
-
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=par7133&show_icons=true&count_private=true&hide_title=true)  
-
 ##### My Badge
 <img src="/badge_github.jpg"><br><br>
 &nbsp;&nbsp;<a href="http://demo.5mode.com"><img src="/wechat1_lo.jpg" width="350"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://orderdude.demo.5mode.com"><img src="/orderdude_ad_lo.jpeg" width="350" height="292"></a>
