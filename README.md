@@ -1,6 +1,6 @@
 ### Hello, and welcome! 👋 (This is Dan..)  
 
-Friend or foe you are welcome to contact me at the wechat id: par7133_wechat and check out same code repo on https://code.5mode.com.    
+You are welcome to contact me at the wechat id: par7133_wechat and check out the same code repo on https://code.5mode.com.    
 
 I invite any of my friends from China and not to mirror Homomm http://homomm.5mode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me directly.
 
