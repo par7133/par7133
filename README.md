@@ -29,9 +29,9 @@ For any need of software additions, plugins and improvements please write to <a 
 
 To request a CD-ROM with the full software collection of 5 Mode please write to <a href="mailto:info@5mode.com">info@5mode.com</a>.   
 
-To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a>.   
+To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.   
 
-Finally you can buy the 5 Mode mug here: https://shop.5mode.com.   
+Finally you can buy the 5 Mode mug here: <a href="https://shop.5mode.com">https://shop.5mode.com</a>.   
 
 <b>Swapping</b>: php development for graphic design.  
   
