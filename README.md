@@ -1,6 +1,6 @@
 ### Hello, and welcome! 👋 (This is Dan..)  
 
-You are welcome to contact me by Telegram: par7133 or by WeChat: par7133_wechat. Check out for the same code on my repo https://code.5mode.com.    
+You are welcome to contact me by Telegram: par7133 or by WeChat: par7133_wechat. Check out for the same code on my repo https://code.numode.eu.    
 
 I invite any of my friends from China and not to mirror Homomm http://homomm.5mode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@numode.eu">info@numode.eu</a>.
 
