@@ -27,7 +27,7 @@ Please contact us via email to have full access to Order Dude or Homomm live dem
 
 For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>   
 
-To request a CD-ROM with the full software collection of 5 Mode please write to <a href="mailto:info@numode.eu">info@numode.eu/a>.   
+To request a CD-ROM with the full software collection of 5 Mode please write to <a href="mailto:info@numode.eu">info@numode.eu</a>.   
 
 To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.   
 
