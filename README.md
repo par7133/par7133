@@ -2,7 +2,7 @@
 
 You are welcome to contact me by Telegram: par7133 or by WeChat: par7133_wechat. Check out for the same code on my repo https://code.5mode.com.    
 
-I invite any of my friends from China and not to mirror Homomm http://homomm.5mode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@5mode.com">info@5mode.com</a>.
+I invite any of my friends from China and not to mirror Homomm http://homomm.5mode-foss.eu in favor of all, thx a lot. In case you have any difficulty to access Homomm please contact me at <a href="mailto:info@numode.eu">info@numode.eu</a>.
 
 And I invite you to check out http://avatarfree.5mode-foss.eu to own your social presence.
 
@@ -25,13 +25,13 @@ because I'm tempted to think that (at 2024/07) it consumes less than the mono mo
 
 Please contact us via email to have full access to Order Dude or Homomm live demo.   
 
-For any need of software additions, plugins and improvements please write to <a href="mailto:info@5mode.com">info@5mode.com</a>   
+For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>   
 
-To request a CD-ROM with the full software collection of 5 Mode please write to <a href="mailto:info@5mode.com">info@5mode.com</a>.   
+To request a CD-ROM with the full software collection of 5 Mode please write to <a href="mailto:info@numode.eu">info@numode.eu/a>.   
 
 To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.   
 
-Finally you can buy the 5 Mode mug here: <a href="https://shop.5mode.com">https://shop.5mode.com</a>.   
+Finally you can buy the 5 Mode mug here: <a href="https://shop.numode.eu">https://shop.numode.eu</a>.   
 
 <b>Swapping</b>: php development for graphic design.  
   
