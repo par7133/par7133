@@ -29,7 +29,7 @@ For any need of software additions, plugins and improvements please write to <a 
 
 To request a CD-ROM with the full software collection of 5 Mode please write to <a href="mailto:info@numode.eu">info@numode.eu</a>.   
 
-To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.   
+To help please donate by clicking <a href="https://numode.me">https://numode.me</a> and filling the form.   
 
 Finally you can buy the NuMode mug here: <a href="https://shop.numode.eu">https://shop.numode.eu</a>.   
 
