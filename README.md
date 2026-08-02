@@ -27,7 +27,7 @@ Please contact us via email to have full access to Order Dude or Homomm live dem
 
 For any need of software additions, plugins and improvements or to request a CD-ROM with the full software collection of NuMode please write to <a href="mailto:info@numode.eu">info@numode.eu</a>.   
 
-To help please donate by clicking <a href="https://numode.me">https://numode.me</a> and filling the form.   
+To help please donate by clicking <a href="https://pay.numode.eu">https://pay.numode.eu</a> and filling the form.   
 
 Finally you can buy the NuMode mug here: <a href="https://shop.numode.eu">https://shop.numode.eu</a>.   
 
@@ -35,7 +35,7 @@ Finally you can buy the NuMode mug here: <a href="https://shop.numode.eu">https:
   
 ##### My Badge
 <img src="/badge_github.jpg"><br><br>
-&nbsp;&nbsp;<a href="http://demo.5mode.com"><img src="/wechat1_lo.jpg" width="350"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://orderdude.demo.5mode.com"><img src="/orderdude_ad_lo.jpeg" width="350" height="292"></a>
+&nbsp;&nbsp;<a href="http://demo.numode.eu"><img src="/wechat1_lo.jpg" width="350"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://orderdude.demo.numode.eu"><img src="/orderdude_ad_lo.jpeg" width="350" height="292"></a>
 
 
    
